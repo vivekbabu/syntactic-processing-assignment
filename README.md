@@ -14,7 +14,9 @@ Suppose we have been asked to determine the disease name and its probable treatm
 
 
 Disease1     Treatment1, Treatment3, Treatment6
+
 Disease2     Treatment2, Treatment4, Treatment7
+
 Disease3     Treatment5, Treatment8, Treatment10
 
 
